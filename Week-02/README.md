@@ -1,4 +1,4 @@
-# Week 2: Baby Steps Begin (Oct 19-25, 2025)
+# Week 2: (Oct 19-25, 2025)
 
 ## Mission
 Taste the work, build excitement, form habits.
