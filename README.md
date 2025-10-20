@@ -62,7 +62,7 @@ This is my **real learning journey**. Every commit = actual skills gained. No fl
 ```
 Setup Sprint ✅
 └─ Starter Steps Phase 📍 (HERE NOW)
-   └─ 13 hrs/week target
+   └─ 19 hrs/week target
    └─ Security+ prep
 ```
 
