@@ -26,13 +26,13 @@ This is my **real learning journey**. Every commit = actual skills gained. No fl
 - **What:** Packet capture device
 - **Tools:** tcpdump, Ethernet, static IP config
 - **Status:** Fully operational
-- **[See Full Writeup](/PROJECTS/pi-network-sensor.md)**
+- **[See Full Writeup](/Projects/pi-network-sensor.md)**
 
 ---
 
 ## 📖 Learning Path
 
-- [ ] OverTheWire Bandit (Levels 0-3 ✅ | Continuing)
+- [ ] OverTheWire Bandit (Levels 3-4 ✅ | Continuing)
 - [ ] Professor Messer Security+ (1/70+ videos done)
 - [ ] TryHackMe (Getting started)
 - [ ] HackTheBox Academy
@@ -51,7 +51,6 @@ This is my **real learning journey**. Every commit = actual skills gained. No fl
 
 ## 📞 Connect
 
-- **LinkedIn:** [Add your link later]
 - **Blog:** Coming soon (rd3n.com)
 - **Discord: LucidH3X** Available for cyber chats!
 
