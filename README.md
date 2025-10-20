@@ -26,7 +26,7 @@ This is my **real learning journey**. Every commit = actual skills gained. No fl
 - **What:** Packet capture device
 - **Tools:** tcpdump, Ethernet, static IP config
 - **Status:** Fully operational
-- **[See Full Writeup](/PROJECTS/pi-network-sensor)**
+- **[See Full Writeup](/PROJECTS/pi-network-sensor.md)**
 
 ---
 
