@@ -6,8 +6,8 @@
 
 This is my **real learning journey**. Every commit = actual skills gained. No fluff. I want to show people the path I took and all the suffering that I went through to get to the place I am now. So that hopefully one day it will inspire a new gen of hackers and Infosec lovers.
 
-**Current Status:** Starter Steps Phase (October 2025)
-**Target:** Security+ certified by Nov 2026 | Looking for a job by April 2027 | AWS cert down in 2027 as well
+**Current Status:** Starter Steps Phase
+**Target:** Security+ certified | Looking for a new job by April 2027 | AWS cert down in 2027 as well
 
 ---
 
@@ -68,4 +68,4 @@ Setup Sprint ✅
 
 ---
 
-*Last updated: Oct 19, 2025*
+*Last updated: Oct 26, 2025*
