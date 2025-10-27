@@ -32,7 +32,7 @@ This is my **real learning journey**. Every commit = actual skills gained. No fl
 
 ## 📖 Learning Path
 
-- [ ] OverTheWire Bandit (Levels 3-4 ✅ | Continuing)
+- [ ] OverTheWire Bandit (Levels 12-13 ✅ | Continuing)
 - [ ] Professor Messer Security+ (1/70+ videos done)
 - [ ] TryHackMe (Getting started)
 - [ ] HackTheBox Academy
